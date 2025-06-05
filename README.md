@@ -9,3 +9,7 @@ Lab01 implements a simple Neural Network to demonstrate the weights and propagat
 ## Lab02 - BackPropagation Neural Networks
 
 Lab02 implements a simple Back Propagation Neural Network to demonstrate the back propagation of weights and error
+
+## Lab03 - Expert Systems
+
+Lab03 implements a simple Expert System and how it works internally
